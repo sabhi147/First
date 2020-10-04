@@ -1,0 +1,31 @@
+body {
+    background-image: url("A.jpg");
+    background-size: cover;
+    background-color: #1aa4c7;
+}
+
+/*img {
+    width: 100px;
+    width: 100px;
+    height: 100px;
+}*/
+
+h1 {
+    text-align: center;
+    color: #00FF00;
+}
+
+h4 {
+    color: #FFFF00;
+    /* text-align: center; */
+}
+
+p {
+    color: #FFFF00;
+    /* text-align: center; */
+}
+
+strong {
+    color: #FFFF00;
+    /* text-align: center; */
+}
